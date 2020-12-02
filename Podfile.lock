@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireNetworkActivityLogger (2.4.0):
+    - Alamofire (~> 4.8)
+  - Cache (5.3.0)
+  - FastEasyMapping (1.2.2)
+  - Imaginary (4.3.1):
+    - Cache (~> 5.3.0)
+  - IQKeyboardManager (6.5.5)
+  - Lightbox (2.3.0):
+    - Imaginary (~> 4.0)
+  - Localize-Swift (3.1.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireNetworkActivityLogger (~> 2.0)
+  - FastEasyMapping (~> 1.2)
+  - IQKeyboardManager
+  - Lightbox
+  - Localize-Swift
+  - MagicalRecord
+  - ReachabilitySwift
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - Cache
+    - FastEasyMapping
+    - Imaginary
+    - IQKeyboardManager
+    - Lightbox
+    - Localize-Swift
+    - MagicalRecord
+    - ReachabilitySwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireNetworkActivityLogger: 6d3398c692d2c5d83b0c58793537860aca1e383d
+  Cache: 48762993ec44e1d93483c4d4a13edd18452326f4
+  FastEasyMapping: cc13aa6608aeb171bc0ea895876434a7328a153a
+  Imaginary: 18c5bba364229eef383b925199db442e71d175e1
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  Lightbox: d317750e4132bfb871a5307cfe0a2c7d6a583c65
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
+
+PODFILE CHECKSUM: 493e2d809be2b20380b439a0c338666bf63d0884
+
+COCOAPODS: 1.9.1
